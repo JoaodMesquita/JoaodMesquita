@@ -35,4 +35,6 @@ Here are some of my 42 projects:
 
 ## 📫 Contact
 
+- Email: jpmesquita29085@hotmail.com
 - GitHub: [JoaodMesquita](https://github.com/JoaodMesquita)
+- Linkedin: www.linkedin.com/in/joãopedrodemesquita
