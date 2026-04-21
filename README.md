@@ -13,7 +13,7 @@ Here are some of my 42 projects:
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🐚 Minishell | Simple Unix shell implementation with parsing and execution | [View Project](https://github.com/JoaodMesquita/minishell) |
+| 🐚 Minishell | Simple Unix shell implementation with parsing and execution | [View Project](https://github.com/JoaodMesquita/42-Minishell) |
 | 🍝 Philosophers | Thread synchronization and concurrency simulation | [View Project](https://github.com/JoaodMesquita/philosophers) |
 | 📡 Minitalk | Communication between processes using UNIX signals | [View Project](https://github.com/JoaodMesquita/Minitalk) |
 | 🔢 Push Swap | Sorting algorithm using two stacks (radix sort) | [View Project](https://github.com/JoaodMesquita/push_swap) |
