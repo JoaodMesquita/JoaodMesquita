@@ -18,7 +18,7 @@ Here are some of my 42 projects:
 | 📡 Minitalk | Communication between processes using UNIX signals | [View Project](https://github.com/JoaodMesquita/Minitalk) |
 | 🔢 Push Swap | Sorting algorithm using two stacks (radix sort) | [View Project](https://github.com/JoaodMesquita/push_swap) |
 | 📄 Get Next Line | Read a file line by line using file descriptors | [View Project](https://github.com/JoaodMesquita/get-next-line) |
-| 🖨️ ft_printf | Reimplementation of printf in C | [View Project](https://github.com/JoaodMesquita/ft_printf) |
+| 🖨️ ft_printf | Reimplementation of printf in C | [View Project](https://github.com/JoaodMesquita/printf) |
 | 📚 Libft | Reimplementation of standard C library functions | [View Project](https://github.com/JoaodMesquita/libft) |
 
 ---
