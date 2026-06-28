@@ -16,7 +16,7 @@ Here are some of my 42 projects:
 | 🐚 Minishell | Simple Unix shell implementation with parsing and execution | [View Project](https://github.com/42-Minishell-Spablob3-TreezZ-Project/42-Minishell) |
 | 🍝 Philosophers | Thread synchronization and concurrency simulation | [View Project](https://github.com/JoaodMesquita/philosophers) |
 | 📡 Minitalk | Communication between processes using UNIX signals | [View Project](https://github.com/JoaodMesquita/Minitalk) |
-| 🎮 So_long  | 2D game using MiniLibs | [View Project](https://github.com/JoaodMesquita/so_long) |
+| 🎮 So_long  | 2D game using MiniLibx | [View Project](https://github.com/JoaodMesquita/so_long) |
 | 🔢 Push Swap | Sorting algorithm using two stacks (radix sort) | [View Project](https://github.com/JoaodMesquita/push_swap) |
 | 📄 Get Next Line | Read a file line by line using file descriptors | [View Project](https://github.com/JoaodMesquita/get-next-line) |
 | 🖨️ ft_printf | Reimplementation of printf in C | [View Project](https://github.com/JoaodMesquita/printf) |
