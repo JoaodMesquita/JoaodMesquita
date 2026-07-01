@@ -14,6 +14,7 @@ Here are some of my 42 projects:
 | Project | Description | Link |
 |--------|-------------|------|
 | 🐚 Minishell | Simple Unix shell implementation with parsing and execution | [View Project](https://github.com/42-Minishell-Spablob3-TreezZ-Project/42-Minishell) |
+| ⚙️ CPP | 42 C++ modules focusing on OOP, memory management, and C++ fundamentals | [View Project](https://github.com/JoaodMesquita/CPP_Modules) |
 | 🍝 Philosophers | Thread synchronization and concurrency simulation | [View Project](https://github.com/JoaodMesquita/philosophers) |
 | 📡 Minitalk | Communication between processes using UNIX signals | [View Project](https://github.com/JoaodMesquita/Minitalk) |
 | 🎮 So_long  | 2D game using MiniLibx | [View Project](https://github.com/JoaodMesquita/so_long) |
