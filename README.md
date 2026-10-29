@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Mesquita
+# 👋 Hi, I'm João
 
 ## 🧑‍💻 About Me
 
